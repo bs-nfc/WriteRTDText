@@ -1,0 +1,1 @@
+ブリリアントサービス NFC技術ブログ: AndroidでRTD Textを書く http://bs-nfc.blogspot.jp/2012/08/androidrtd-text_8.html
